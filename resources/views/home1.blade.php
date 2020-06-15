@@ -35,3 +35,5 @@
       <script src="{{asset('/js/bootstrap.min.js')}}"></script> 
 </body>
 </html>
+
+postgres://tiikzvlveqvjsj:6f9a1b92c41491f74818a8adf1e66d5cf25f40890d9bbc2140475825806cf244@ec2-52-87-135-240.compute-1.amazonaws.com:5432/d200svimj8s5hj
